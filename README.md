@@ -5,7 +5,11 @@ Link Downloader :: URI형태의 파일을 로컬로 다운로드 합니다.
 ## Info
 
 - 언어 공부를 위해 시작된 `Link Downloader` 프로젝트입니다.
-- 이번 프로젝트는 `Visual Basic Express 2010`를 위해 진행되었습니다.
+- 이번 프로젝트는 `Visual Studio 2012`를 위해 진행되었습니다.
+
+## Other
+
+- [Visual Basic Express 2010](https://github.com/Sotaneum/link-downloader/tree/f8a0d89a59bdc4cd0034345a58ba2030e45cb6db)
 
 ## Copyright
 

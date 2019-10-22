@@ -8,17 +8,17 @@ Imports System.Runtime.InteropServices
 
 ' 어셈블리 특성 값을 검토합니다.
 
-<Assembly: AssemblyTitle("WindowsApplication1")> 
+<Assembly: AssemblyTitle("webdownload")> 
 <Assembly: AssemblyDescription("")> 
-<Assembly: AssemblyCompany("Microsoft Corporation")> 
-<Assembly: AssemblyProduct("WindowsApplication1")> 
-<Assembly: AssemblyCopyright("Copyright © Microsoft Corporation 2013")> 
+<Assembly: AssemblyCompany("")> 
+<Assembly: AssemblyProduct("webdownload")> 
+<Assembly: AssemblyCopyright("Copyright ©  2015")> 
 <Assembly: AssemblyTrademark("")> 
 
 <Assembly: ComVisible(False)>
 
 '이 프로젝트가 COM에 노출되는 경우 다음 GUID는 typelib의 ID를 나타냅니다.
-<Assembly: Guid("b751cc73-abe1-4bc3-9709-7d55843a96b8")> 
+<Assembly: Guid("a290737d-f6f0-4480-a134-9a5b83a8b7ef")> 
 
 ' 어셈블리의 버전 정보는 다음 네 가지 값으로 구성됩니다.
 '
